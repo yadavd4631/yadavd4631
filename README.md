@@ -5,17 +5,16 @@
 
 <p align="left"> <a href="https://twitter.com/yadavd4631" target="blank"><img src="https://img.shields.io/twitter/follow/yadavd4631?logo=twitter&style=for-the-badge" alt="yadavd4631" /></a> </p>
 
-- 🔭 I’m currently working on [Netflix-GPT](https://netflix-gpt-68fdf.web.app/)
+- 🔭 I’m currently working on [Chatapp](https://github.com/yadavd4631/Chatapp)
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://portfolioreactd.netlify.app/](https://portfolioreactd.netlify.app/)
-
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-deepaky.vercel.app/)
 - 💬 Ask me about **React , Javascript**
 
-- 📫 How to reach me **yadavd4631@gmail.com**
+- 📫 How to reach me [📧](yadavd4631@gmail.com)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Q95vW9BI4mLBtL_spgoST5Xti8cOGu35/view?usp=drive_link](https://drive.google.com/file/d/1Q95vW9BI4mLBtL_spgoST5Xti8cOGu35/view?usp=drive_link)
+- 📄 Know about my experiences [📜](https://shorturl.at/AjuKX)
 
 - Beyond the Code ⚡ **Cricket 🏏 , Gaming 🕹️ , Reading 📚**
 
