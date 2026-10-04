@@ -1,48 +1,93 @@
-<h1 align="center">Hi 👋, I'm Deepak Yadav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi, I'm Deepak Yadav 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yadavd4631&label=Profile%20views&color=0e75b6&style=flat" alt="yadavd4631" /> </p>
+### DevOps Engineer | AWS | Kubernetes | Docker | Terraform | CI/CD
 
-<p align="left"> <a href="https://twitter.com/yadavd4631" target="blank"><img src="https://img.shields.io/twitter/follow/yadavd4631?logo=twitter&style=for-the-badge" alt="yadavd4631" /></a> </p>
+I’m a **DevOps Engineer** focused on building, deploying, automating, and maintaining reliable cloud infrastructure and production systems.
 
-- 🔭 I’m currently working on [Chatapp](https://github.com/yadavd4631/Chatapp)
+I work with **AWS, Linux, Docker, Kubernetes, Terraform, CI/CD, Nginx, monitoring, and cloud automation**, while also having a strong development background with **React, Node.js, Express.js, and MongoDB**.
 
-- 🌱 I’m currently learning **React**
+I enjoy solving real-world infrastructure problems, improving deployment workflows, and building systems that are scalable, secure, and easier to operate.
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-deepaky.vercel.app/)
-- 💬 Ask me about **React , Javascript**
+---
 
-- 📫 How to reach me [📧](yadavd4631@gmail.com)
+## 🚀 About Me
 
-- 📄 Know about my experiences [📜](https://shorturl.at/AjuKX)
+- 💻 DevOps Engineer at **Zoos Global**
+- ☁️ Working with **AWS Cloud & Infrastructure**
+- 🐳 Building and deploying applications with **Docker**
+- ☸️ Working with **Kubernetes / Amazon EKS**
+- 🏗️ Infrastructure as Code using **Terraform**
+- 🔄 Building and improving **CI/CD pipelines**
+- 🐧 Linux administration, networking, Nginx & troubleshooting
+- 📊 Monitoring and logging with **Datadog & ELK**
+- ⚙️ Backend development with **Node.js & Express.js**
+- 🗄️ Working with **MongoDB & cloud databases**
+- ⚛️ Frontend experience with **React.js & TypeScript**
+- 🚀 Interested in production systems, automation, scalability and reliability
 
-- Beyond the Code ⚡ **Cricket 🏏 , Gaming 🕹️ , Reading 📚**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/yadavd4631" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yadavd4631" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/@yadavd4631" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@yadavd4631" height="30" width="40" /></a>
+## 🛠️ Tech Stack
+
+### ☁️ Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,nginx,linux,bash" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### 🔄 CI/CD & Version Control
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yadavd4631&show_icons=true&locale=en&layout=compact" alt="yadavd4631" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,jenkins,githubactions" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yadavd4631&show_icons=true&locale=en" alt="yadavd4631" /></p>
+### 💻 Backend
 
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python" />
+</p>
 
-<!--
-**yadavd4631/yadavd4631** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎨 Frontend
 
-Here are some ideas to get you started:
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Monitoring & Infrastructure
+
+- AWS CloudWatch
+- Datadog
+- ELK Stack
+- Kibana
+- Nginx
+- SSL / TLS
+- Linux
+- Networking
+- IAM
+- VPC
+- S3
+- EC2
+- RDS
+- Lambda
+- API Gateway
+- SQS / SNS
+- EventBridge
+
+---
+
+## 🏗️ What I Work On
+
+### Infrastructure
+
+```text
+AWS
+ ├── EC2
+ ├── EKS
+ ├── VPC
+ ├── IAM
+ ├── S3
+ ├── RDS
+ ├── Lambda
+ ├── API Gateway
+ ├── SQS / SNS
+ └── CloudWatch
