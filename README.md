@@ -1,93 +1,61 @@
-# Hi, I'm Deepak Yadav 👋
+<h1 align="center">Hi 👋, I'm Deepak Yadav</h1>
 
-### DevOps Engineer | AWS | Kubernetes | Docker | Terraform | CI/CD
+<h3 align="center">
+DevOps Engineer • Cloud • Kubernetes • Infrastructure • Automation
+</h3>
 
-I’m a **DevOps Engineer** focused on building, deploying, automating, and maintaining reliable cloud infrastructure and production systems.
-
-I work with **AWS, Linux, Docker, Kubernetes, Terraform, CI/CD, Nginx, monitoring, and cloud automation**, while also having a strong development background with **React, Node.js, Express.js, and MongoDB**.
-
-I enjoy solving real-world infrastructure problems, improving deployment workflows, and building systems that are scalable, secure, and easier to operate.
+<p align="center">
+  <a href="https://portfolio-deepaky.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/yadavd4631/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/yadavd4631">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 💻 DevOps Engineer at **Zoos Global**
-- ☁️ Working with **AWS Cloud & Infrastructure**
-- 🐳 Building and deploying applications with **Docker**
-- ☸️ Working with **Kubernetes / Amazon EKS**
-- 🏗️ Infrastructure as Code using **Terraform**
-- 🔄 Building and improving **CI/CD pipelines**
-- 🐧 Linux administration, networking, Nginx & troubleshooting
-- 📊 Monitoring and logging with **Datadog & ELK**
-- ⚙️ Backend development with **Node.js & Express.js**
-- 🗄️ Working with **MongoDB & cloud databases**
-- ⚛️ Frontend experience with **React.js & TypeScript**
-- 🚀 Interested in production systems, automation, scalability and reliability
+I'm a **DevOps Engineer** focused on building reliable cloud infrastructure, automating deployments, and improving production systems.
 
----
+My engineering journey started with frontend development and gradually moved toward **backend engineering, cloud infrastructure, DevOps, and distributed systems**.
 
-## 🛠️ Tech Stack
+Currently, I work with technologies around:
 
-### ☁️ Cloud & DevOps
+- ☁️ AWS Cloud
+- 🐳 Docker & Containerization
+- ☸️ Kubernetes & Amazon EKS
+- 🏗️ Terraform & Infrastructure as Code
+- 🔄 CI/CD Automation
+- 🐧 Linux & Bash
+- 🌐 Nginx & Networking
+- 📊 Monitoring & Observability
+- 🔐 Cloud Security & IAM
+- ⚙️ Node.js & Backend Systems
 
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,nginx,linux,bash" />
-</p>
-
-### 🔄 CI/CD & Version Control
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,jenkins,githubactions" />
-</p>
-
-### 💻 Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python" />
-</p>
-
-### 🎨 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css" />
-</p>
-
-### 📊 Monitoring & Infrastructure
-
-- AWS CloudWatch
-- Datadog
-- ELK Stack
-- Kibana
-- Nginx
-- SSL / TLS
-- Linux
-- Networking
-- IAM
-- VPC
-- S3
-- EC2
-- RDS
-- Lambda
-- API Gateway
-- SQS / SNS
-- EventBridge
+I like understanding **how systems work underneath**, not just how to deploy them.
 
 ---
 
-## 🏗️ What I Work On
-
-### Infrastructure
+## ⚡ What I Do
 
 ```text
-AWS
- ├── EC2
- ├── EKS
- ├── VPC
- ├── IAM
- ├── S3
- ├── RDS
- ├── Lambda
- ├── API Gateway
- ├── SQS / SNS
- └── CloudWatch
+┌───────────────────────────────────────────────────────┐
+│                    DEVOPS ENGINEERING                 │
+├───────────────────────────────────────────────────────┤
+│                                                       │
+│  ☁️ Cloud Infrastructure        AWS                   │
+│  🏗️ Infrastructure as Code     Terraform             │
+│  🐳 Containers                  Docker                │
+│  ☸️ Orchestration               Kubernetes / EKS      │
+│  🔄 CI/CD                       GitHub Actions / GitLab│
+│  🐧 Systems                     Linux / Bash          │
+│  🌐 Networking                  Nginx / DNS / TLS     │
+│  📊 Observability               Datadog / ELK         │
+│  🔐 Security                    IAM / VPC             │
+│                                                       │
+└───────────────────────────────────────────────────────┘
